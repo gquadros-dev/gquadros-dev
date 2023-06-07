@@ -1,0 +1,39 @@
+header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 80px;
+    }
+
+header>h1 {
+    line-height: 80px;  
+    }
+
+ul {
+    list-style: none;
+    display: flex;
+    }
+
+li>a {
+    line-height: 80px;
+    color: #000;
+    text-decoration: none;
+    }
+
+li>a::before {
+    content: '';
+    position: absolute;
+    height: 1.5px;
+    width: 0;
+    bottom: -5px;
+    left: 10px;
+    background-color: green;
+    }
+
+li>a:hover::before {
+    width: 20px;
+    }
+
+ul>* {
+    margin-right: 50px;
+    }
