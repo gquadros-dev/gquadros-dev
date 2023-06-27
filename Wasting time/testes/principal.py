@@ -18,9 +18,9 @@ novo.close()
 
 terceira = []
 b = 0
-for i in listaNovo:
-    if listaNovo[b] in listaAntigo[b]:
-        terceira.append(listaNovo[b])
+for i in listaAntigo:
+    if listaAntigo[b] not in listaNovo:
+        terceira.append(listaAntigo[b])
         b += 1
 
-print(terceira)
+print(len(terceira))
