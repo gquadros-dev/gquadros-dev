@@ -2,30 +2,19 @@ import requests
 import json
 
 
-def request(URL):
+def request(URL, moeda):
     response = requests.get(URL)
-    if response.status_code == 200:
-        data = json.loads(response.content)
-        data = data['GBPBRL.code']
-        return data
-    else:
-        return 'Erro na requisição. Código de status: {response.status_code}'
+    try:
+        if response.status_code == 200:
+            data = json.loads(response.content)
+            data = data[f'{moeda}']
+            return data['bid']
+        else:
+            return f'Erro na requisição. Código de status: {response.status_code}'
+    except:
+        print('Erro na requisição, verifique sua request!')
 
-response = request('https://economia.awesomeapi.com.br/last/GBP-BRL')
+response = request('https://economia.awesomeapi.com.br/last/GBP-BRL', 'GBPBRL')
 
 
 print(response) 
-
-
-# response = requests.get('https://economia.awesomeapi.com.br/last/GBP-BRL')
-
-# if response.status_code == 200:
-#     data = response.json()
-# else:
-#     print('Erro na requisição. Código de status: {response.status_code}')
-
-# data = str(data)
-
-# json_data = json.loads(data)
-
-# print(json_data["high"])
