@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing:border-box;
+}
+
+body {
+    background-color: rgb(38, 48, 53);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 85vh;
+}
+
+main{
+    top: 0;
+    /* position: absolute; */
+    width: 33%;
+    height: 100vh;
+    background-color: #CCC;
+    border-radius: 5vh;
+}
