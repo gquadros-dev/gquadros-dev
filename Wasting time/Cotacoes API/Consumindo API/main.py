@@ -1,5 +1,6 @@
 import requests
 import json
+import conBanco
 
 class ConverterMoedas:
     def __init__(self, parametro):
@@ -23,9 +24,7 @@ class ConverterMoedas:
 if __name__ == '__main__':
     con = ConverterMoedas('GBP-BRL')
     con.request()
-
-
-
+    
 
 # conversao = input(str('Qual conversão deseja? '))
 # moeda_desejada = conversao.index('-')
