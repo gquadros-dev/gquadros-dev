@@ -22,8 +22,13 @@ class ConverterMoedas:
             print('Erro na requisição, verifique sua solicitação!')
 
 if __name__ == '__main__':
-    con = ConverterMoedas('GBP-BRL')
-    con.request()
+    conver = ConverterMoedas('GBP-BRL')
+    conver.request()
+    con = conBanco.Conexao()
+    con.testeConexao(con.criarConexao())
+    
+
+
     
 
 # conversao = input(str('Qual conversão deseja? '))
