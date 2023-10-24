@@ -27,4 +27,4 @@
 <hr>
 
 <h1>Tecnologias que trabalho: </h1>
-<img src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png"> 
+<img src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" width="20px" height="20px"> 
