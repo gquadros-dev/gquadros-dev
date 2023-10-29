@@ -27,7 +27,7 @@
 <hr>
 
 <h2>Tecnologias com que trabalho/Technologies I work with: </h2>
-<div style='display:flex; justify-content:center;'>
+<div style='display:flex; justify-content:center;'> 
   <img src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" width="30px" height="30px"> 
   <img src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" width="30px" height="30px"> 
   <img src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" width="30px" height="30px"> 
