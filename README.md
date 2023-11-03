@@ -20,7 +20,7 @@
   </p>
   
   <li>Meu nome é Gabriel e eu tenho só 18 anos;</li>
-  <li>Minha linguagem principal é JavaScript mas eu também desenvolvo minhas aplicações com NodeJS, ReactJS, React Native e Deplhi;</li>
+  <li>Minha linguagem principal é JavaScript mas eu também desenvolvo minhas aplicações com NodeJS, ReactJS, React Native e Delphi;</li>
   <li>Os bancos de dados que eu trabalho são: MongoDB, PostgreSQL e Firebird;</li>
 </ul>
 
