@@ -3,7 +3,7 @@
 <ul>
   <h3>English</h3>
   <p>
-    <h6>Abstract:</h6>
+    <h6>About me:</h6>
     Since I was just a little boy my dream was to become a game dev, now I'm in the way to achieve this dream, today i just work with web but in the future I long to be a game dev.
   </p>
   
@@ -15,7 +15,7 @@
 <ul>
   <h3>Português</h3>
   <p>
-    <h6>Resumo:</h6>
+    <h6>Sobre mim:</h6>
     Desde pequeno eu sempre sonhei em me tornar um desenvolvedor de jogos, agora eu estou no caminho para conquistar esse sonho. Hoje eu só trabalho com desenvolvimento web mas no futuro eu almejo ser um desenvolvedor de jogos.
   </p>
   
