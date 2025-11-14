@@ -88,8 +88,8 @@ Minha área de especialização é banco de dados e desenvolvimento backend. Est
 </div>
 
 ## Contato / Contact
-<div align="center">  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-de-quadros)
-</div>
+<a href="https://www.linkedin.com/in/gabriel-de-quadros" target="_blank">
+  <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
 
 ---
