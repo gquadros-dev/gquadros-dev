@@ -88,8 +88,16 @@ Minha área de especialização é banco de dados e desenvolvimento backend. Est
 </div>
 
 ## Contato / Contact
-<a href="https://www.linkedin.com/in/gabriel-de-quadros" target="_blank">
-  <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
+<div align="center">
+  <a href="https://www.linkedin.com/in/gabriel-de-quadros" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+</div>
 
 ---
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GQuadros&show_icons=true&theme=dark)
+---
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=GQuadros&theme=dark)
+---
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GQuadros&layout=compact&theme=dark)
