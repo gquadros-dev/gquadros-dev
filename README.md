@@ -98,6 +98,4 @@ Minha área de especialização é banco de dados e desenvolvimento backend. Est
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gquadros-dev&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gquadros-dev&layout=compact&theme=dark)
----
-![Trophy](https://github-profile-trophy.vercel.app/?username=gquadros-dev&theme=darkhub&row=1&column=6)
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=gquadros-dev&theme=github-dark)
