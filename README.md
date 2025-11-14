@@ -58,32 +58,38 @@ Minha área de especialização é banco de dados e desenvolvimento backend. Est
 ---
 
 # Tech Stack
-<br>
-<div align="center">
+
 ## Main Technologies
+<div align="center">
 <img src="https://user-images.githubusercontent.com/25181517/121405384-444d7300-c95d-11eb-959f-913020d3bf90.png" width="50" height="50" alt="C#"/>
 <img src="https://github.com/marwin1991/profile-technology-icons/assets/76012086/4ec200c2-acdf-4c42-b419-cd49cba3d09f" width="50" height="50" alt="Delphi"/>
 <img src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png" width="50" height="50" alt="TypeScript"/>
 <img src="https://user-images.githubusercontent.com/25181517/192106073-90fffafe-3562-4ff9-a37e-c77a2da0ff58.png" width="50" height="50" alt="C++"/>
+</div>
+
 ## Frontend & Mobile
-<br>
+<div align="center">
 <img src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" width="50" height="50" alt="React"/>
 <img src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/5f8c622c-c217-4649-b0a9-7e0ee24bd704" width="50" height="50" alt="Next.js"/>
 <img src="https://user-images.githubusercontent.com/25181517/186884159-4b5e122b-95de-4a32-b10b-7f6fdffa4c5a.png" width="50" height="50" alt="Angular"/>
+</div>
+
 ## Databases
-<br>
+<div align="center">
 <img src="https://user-images.githubusercontent.com/25181517/117208740-bfb78400-adf5-11eb-97bb-09072b6bedfc.png" width="50" height="50" alt="PostgreSQL"/>
 <img src="https://user-images.githubusercontent.com/25181517/182884177-d48a8579-2cd0-447a-b9a6-ffc7cb02560e.png" width="50" height="50" alt="MongoDB"/>
 <img src="https://user-images.githubusercontent.com/25181517/182884894-d3fa6ee0-f2b4-4960-9961-64740f533f2a.png" width="50" height="50" alt="Redis"/>
+</div>
+
 ## Currently Learning
-<br>
+<div align="center">
 <img src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" width="50" height="50" alt="Python"/>
 <img src="https://user-images.githubusercontent.com/25181517/192599922-3a8ceb1c-ff1d-40bc-b73c-99ea1182d8ad.png" width="50" height="50" alt="Rust"/>
 </div>
 
 ## Contato / Contact
 <div align="center">  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)] (https://www.linkedin.com/in/gabriel-de-quadros)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-de-quadros)
 </div>
 
 ---
